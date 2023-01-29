@@ -18,7 +18,7 @@ I learned how to use a button with javascript and how to make a dark theme and a
 ## Author
 
 - GitHub - [Ingridy Candido](https://github.com/IngridyCandido)
-- Frontend Mentor - [@IngridyCandido](https://www.frontendmentor.io/profile/IngridyCandido)
+- Microsoft Learn - [Ingridy Candido](https://learn.microsoft.com/pt-br/users/ingridycandido-9105/)
 - LinkeIdn - [Ingridy Candido](https://www.linkedin.com/in/ingridy-candido-a71256262/)
 
 ## Acknowledgments
