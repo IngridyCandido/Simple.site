@@ -11,7 +11,7 @@ This was one of the first sites I created, it was guided and I only modified a f
 
 - Live Site URL: (https://ingridycandido.github.io/Simple.site/)
 
-##What I learned
+## What I learned
 
 I learned how to use a button with javascript and how to make a dark theme and a light theme.
 
